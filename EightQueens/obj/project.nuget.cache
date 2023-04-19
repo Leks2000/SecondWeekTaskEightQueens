@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+OFlXQdFFvhzCv2X1ZwNus2VBIt0lsP8/IidcOPZQAr850u5rhlfXOmV13vGTBG7HE0GYu02rNvaFsCNAOOFZg==",
+  "dgSpecHash": "Idv7dCG9WvjY0mYHv4zvVmdW2JJWgip1JuIAg/mU9nuHTNWlF13Zd8nA3TIQVdqXTEqZIHKwp2WPG3d0DaKIDw==",
   "success": true,
-  "projectFilePath": "F:\\repos\\Свой проекты\\EightQueens\\8chess.csproj",
+  "projectFilePath": "F:\\repos\\Свой проекты\\EightQueens\\EightQueens.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

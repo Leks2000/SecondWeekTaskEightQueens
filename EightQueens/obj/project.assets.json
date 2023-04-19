@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\repos\\Свой проекты\\EightQueens\\8chess.csproj",
-      "projectName": "8chess",
-      "projectPath": "F:\\repos\\Свой проекты\\EightQueens\\8chess.csproj",
+      "projectUniqueName": "F:\\repos\\Свой проекты\\EightQueens\\EightQueens.csproj",
+      "projectName": "EightQueens",
+      "projectPath": "F:\\repos\\Свой проекты\\EightQueens\\EightQueens.csproj",
       "packagesPath": "C:\\Users\\ддд\\.nuget\\packages\\",
       "outputPath": "F:\\repos\\Свой проекты\\EightQueens\\obj\\",
       "projectStyle": "PackageReference",
